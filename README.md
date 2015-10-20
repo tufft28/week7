@@ -8,9 +8,9 @@ Evaluating data, GitHub Pages, and telling stories with maps
 In the last several years, story mapping has emerged as a way to bring a "guided tour" feel to interactive maps. Below are (in my mind at least) the biggest players.
 
 ### Esri's approach
-https://storymaps.arcgis.com
-https://esri.github.io/#Storytelling
-[example](http://storymaps.esri.com/stories/2015/refugee-crisis/)
+https://storymaps.arcgis.com  
+https://esri.github.io/#Storytelling  
+[example](http://storymaps.esri.com/stories/2015/refugee-crisis/)  
 
 ##### Pros
 - Esri integration
