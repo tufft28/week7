@@ -39,12 +39,12 @@ http://www.azavea.com/blogs/atlas/2015/02/using-odysseyjs-sandbox/
 - Great way to start writing in Markdown, as it's an integral aspect of Odyssey
 
 ### StoryMapJS from Knight Lab
-https://storymap.knightlab.com/
-[example](http://www.minnpost.com/stroll/2014/06/hockey-hip-hop-and-other-green-line-highlights)
-[another example](https://storymap.knightlab.com/examples/aryas-journey/)
+https://storymap.knightlab.com/  
+[example](http://www.minnpost.com/stroll/2014/06/hockey-hip-hop-and-other-green-line-highlights)  
+[another example](https://storymap.knightlab.com/examples/aryas-journey/)  
 
 ### Neatline
-http://neatline.org/
-Runs on top of [Omeka](http://omeka.org/) 
+http://neatline.org/  
+Runs on top of [Omeka](http://omeka.org/)  
 
 
