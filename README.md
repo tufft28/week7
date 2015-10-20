@@ -51,11 +51,12 @@ Two choices
 - *project site*, for projects(!)
 
 This week's assignment is to fork the week7 repo and create your own project site, what you need to do is:
-1. Fork the week7 repo
-2. Clone your fork
-3. Create a new branch and call it **gh-pages**
-4. Create an `index.html` file
-5. Add the following boilerplate
+
+1. Fork the week7 repo  
+2. Clone your fork  
+3. Create a new branch and call it **gh-pages**  
+4. Create an `index.html` file  
+5. Add the following boilerplate  
 
 ```html
 <!DOCTYPE html>
@@ -76,7 +77,7 @@ This week's assignment is to fork the week7 repo and create your own project sit
 </html>
 ```
 
-6. Add the iframe embed code for your story map into the `index.html` file
-7. Commit and sync your file
-8. In a few minutes go to `<your Github account>.github.io/week7` and you should see your work! (for example, since my username is `krdyke` I would go to `krdyke.github.io/week7`
-9. Create a pull request so I can see that you're done.
+6. Add the iframe embed code for your story map into the `index.html` file  
+7. Commit and sync your file  
+8. In a few minutes go to `<your Github account>.github.io/week7` and you should see your work! (for example, since my username is `krdyke` I would go to `krdyke.github.io/week7`  
+9. Create a pull request so I can see that you're done.  
