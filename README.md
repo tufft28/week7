@@ -43,16 +43,8 @@ https://storymap.knightlab.com/
 [example](http://www.minnpost.com/stroll/2014/06/hockey-hip-hop-and-other-green-line-highlights)
 [another example](https://storymap.knightlab.com/examples/aryas-journey/)
 
-##### Pros
-
-##### Cons
-
-
 ### Neatline
 http://neatline.org/
 Runs on top of [Omeka](http://omeka.org/) 
 
-##### Pros
-
-##### Cons
 
